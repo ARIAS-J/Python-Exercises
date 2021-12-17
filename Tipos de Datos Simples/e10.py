@@ -11,4 +11,3 @@ payaso = int(input("Introduzca la cantidad de payaso: "))
 peso_total = payaso * payaso_peso + muñeca * muñeca_peso
 
 print(f"\nEl peso total del paquete es: {peso_total}g")
-
